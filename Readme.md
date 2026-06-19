@@ -20,7 +20,7 @@ This project predicts whether a movie review is positive or negative using Machi
 ## Example
 
 Input:
-This movie was amazing!
+SPIDER-MAN BRAND NEW DAY WAS AMAZINGG!!
 
 Output:
-positive
+Positive
